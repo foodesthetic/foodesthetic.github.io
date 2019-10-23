@@ -1,0 +1,10 @@
+<section class="section-recipes cleaarfix">
+	<h2><span>Рецепты</span></h2>
+	<div class="row">
+
+{% for post in site.categories.recipes limit: 9 offset: 0 %}
+{% include /home-section-recipes-item.html %}
+{% endfor %}
+
+	</div>
+</section>

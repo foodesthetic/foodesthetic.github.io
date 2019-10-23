@@ -1,0 +1,53 @@
+{% include /header-home.html %}
+
+{% include /top-line-articles.html %}
+
+<article>
+
+	<div class="container-fluid">
+	
+		<div class="row">
+
+<!--------------------------------------------------------------->
+<!--Здесь начинается левый широкий ряд -->
+<!--------------------------------------------------------------->
+
+			<div class="col-md-9 col-sm-8 col-12">
+
+				<section class="section-articles cleaarfix">
+					<h2><span>Статьи</span></h2>
+						<div class="row">
+					
+{% for post in site.categories.articles limit: 36 offset: 0 %}
+{% include /home-section-articles-item.html %}
+{% endfor %}
+					
+						</div>
+					</section>
+
+			</div>
+<!--------------------------------------------------------------->
+<!--Здесь начинается правый узкий ряд -->
+<!--------------------------------------------------------------->
+
+			<div class="col-md-3 col-sm-4 col-12">
+
+{% include /home-section-popular.html %}
+
+{% include /home-section-app.html %}
+
+{% include /home-section-vk.html %}
+
+{% include /home-section-survey.html %}
+
+{% include /home-section-products.html %}
+
+			</div>
+
+		</div>
+
+	</div>
+
+</article>
+
+{% include /footer-home.html %}

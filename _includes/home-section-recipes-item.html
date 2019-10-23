@@ -1,0 +1,10 @@
+<a href="{{ post.url }}" class="col-md-4 col-sm-12 item-recipe">
+	<img src="{{ post.thumb }}" alt="">
+	<div class="item-recipe-content">
+		<p class="item-recipe-title"> {{ post.title }} </p> 
+		<!--<i class="{{ post.dish-type }}"></i>-->
+		<p class="item-recipe-date">{{ post.date | date: '%d' }}/{{ post.date | date: '%m' }}/{{ post.date | date: '%Y' }}, главный редактор</p>
+		<p>{{ post.description }}</p>
+		<hr noshade> 
+	</div>
+</a>

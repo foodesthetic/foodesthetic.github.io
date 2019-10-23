@@ -1,0 +1,77 @@
+{% include /header-item.html %}
+
+{% include /top-line-news.html %}
+
+	<article>
+
+		<div class="container-fluid">
+
+			<div class="row">
+
+<!--------------------------------------------------------------->
+<!--Здесь начинается левый широкий ряд -->
+<!--------------------------------------------------------------->
+
+				<div class="col-md-9 col-12">
+
+					<section class="section-news-head cleaarfix">
+			
+						<h2 class="news-heading-decor"><span>{{ page.title }}</span></h2>
+
+						<div class="row">
+
+							<div class="col-md-3 col-sm-12 news-author">
+
+								<div class="news-author-photo" style="background-image: url({{ page.author-photo }})"></div>
+								<a href="#" class="news-author-name"><i>{{ page.author-name }}</i> </a> 
+								<p>{{ page.author-level }}</p>
+						
+							</div>
+
+							<div class="col-md-9 col-sm-12 news-annotation">
+
+								<h3>
+									{{ page.annotation }}
+								</h3>
+
+							</div>
+
+						</div>
+
+					</section>
+
+					<hr class="hr-news">
+
+					<section class="section-news-body cleaarfix">
+
+						{{ content }}
+
+{% include /pluso.html %}
+
+{% include /comments.html %}
+
+					</section>
+
+				</div>
+
+<!--------------------------------------------------------------->
+<!--Здесь начинается правый узкий ряд -->
+<!--------------------------------------------------------------->
+
+				<div class="col-md-3 col-sm-4 col-12">
+
+{% include /home-section-popular.html %}
+
+{% include /home-section-vk.html %}
+
+{% include /home-section-products.html %}
+		
+				</div>
+		
+			</div>
+		
+		</div>
+		
+	</article>
+		
+{% include /footer-home.html %}

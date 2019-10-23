@@ -1,0 +1,8 @@
+<a href="{{ post.url }}" class="item-news"> 
+	<div class="item-news-bg" style="background-image: url({{ post.thumb }})"></div> 
+	<div class="item-news-content">
+		<p class="item-news-title">{{ post.title }}</p>
+		<p class="item-news-descr">{{ post.description }} Подробнее...</p>
+		<p class="item-news-date">{{ post.date | date: '%d' }}/{{ post.date | date: '%m' }}/{{ post.date | date: '%Y' }}, главный редактор</p>
+	</div> 
+</a>
