@@ -1,0 +1,40 @@
+	<footer>
+
+		<div class="bottom-menu-container">
+
+			<h1>{{ site.name }} </h1>
+			
+			<nav class="soc soc-bottom">
+				<ul>
+					{{ site.soc }}
+				</ul>
+			</nav>
+
+			<p class="copy"> 
+				{{ site.time | date: '%Y' }}
+				&copy; {{ site.name }}
+			</p>
+			<p> 
+				{{ site.copyright }}
+			</p>
+			
+
+			</div>
+
+	</footer>
+
+	<script type="text/javascript" src="js/scripts.min.js"> </script>
+
+	<script type="text/javascript" src="https://vk.com/js/api/openapi.js?162"></script>
+
+	<!-- VK Widget -->
+	<div id="vk_groups"></div>
+	
+	<script type="text/javascript">
+		VK.Widgets.Group("vk_groups", {mode: 0, width: "auto", height: "300", color2: '222222', color3: 'F1B501'}, 187843140);
+	</script>
+
+	<script id="dsq-count-scr" src="//foodestetic-github-io.disqus.com/count.js" async></script>
+
+</body>
+</html>

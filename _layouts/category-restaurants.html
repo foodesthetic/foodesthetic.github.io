@@ -1,0 +1,51 @@
+{% include /header-home.html %}
+
+{% include /top-line-restaurants.html %}
+
+<article>
+
+	<div class="container-fluid">
+	
+		<div class="row">
+
+<!--------------------------------------------------------------->
+<!--Здесь начинается левый широкий ряд -->
+<!--------------------------------------------------------------->
+
+			<div class="col-md-9 col-sm-8 col-12">
+
+				<section class="section-restaurants cleaarfix">
+					<h2><span>Рестораны</span></h2>
+					
+{% for post in paginator.posts %}
+{% include /home-section-restaurants-item.html %}
+{% endfor %}
+
+					</section>
+
+			</div>
+<!--------------------------------------------------------------->
+<!--Здесь начинается правый узкий ряд -->
+<!--------------------------------------------------------------->
+
+			<div class="col-md-3 col-sm-4 col-12">
+
+{% include /home-section-popular.html %}
+
+{% include /home-section-app.html %}
+
+{% include /home-section-vk.html %}
+
+{% include /home-section-survey.html %}
+
+{% include /home-section-products.html %}
+
+			</div>
+
+		</div>
+
+	</div>
+
+</article>
+
+{% include /footer-home.html %}
