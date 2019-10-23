@@ -1,8 +1,0 @@
-<section class="popular">
-	<h2><span>Популярное</span></h2>
-	<div class="row">
-{% for post in site.categories.recipes limit: 5 offset: 4 %}
-{% include /home-section-popular-item.html %}
-{% endfor %}
-	</div>
-</section>

@@ -1,8 +1,0 @@
-<a href="{{ post.url }}" class="col-md-4 item-article">
-	<div class="item-article-bg" style="background-image: url({{ post.thumb }})"></div>
-	<div class="item-article-content">
-		<p class="item-article-title">{{ post.title }}</p>
-		<p class="item-article-date">{{ post.date | date: '%d' }}/{{ post.date | date: '%m' }}/{{ post.date | date: '%Y' }}, главный редактор</p>
-		<p class="item-article-descr">{{ post.description | strip_html | truncatewords: 10 }}</p>
-	</div>
-</a>
