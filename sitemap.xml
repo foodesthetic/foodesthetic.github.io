@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html</loc>
+    <lastmod>2019-10-21T00:00:00+03:00</lastmod>
+  </url>
+  <url>
     <loc>https://foodestetic.github.io/blog/recipes/2019-10-19-kartoshka-garmoshka.html</loc>
     <lastmod>2019-10-19T00:00:00+03:00</lastmod>
   </url>
@@ -78,11 +82,23 @@
     <lastmod>2019-07-19T00:00:00+03:00</lastmod>
   </url>
   <url>
+    <loc>https://foodestetic.github.io/blog/articles/2019-07-18-o-polze-i-vrede-kofe.html</loc>
+    <lastmod>2019-07-18T00:00:00+03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://foodestetic.github.io/blog/articles/2019-07-17-istoriya-morozhenogo.html</loc>
+    <lastmod>2019-07-17T00:00:00+03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://foodestetic.github.io/blog/articles/2019-07-16-uchyonye-shokolad-sposoben-prodlevat-zhizn.html</loc>
+    <lastmod>2019-07-16T00:00:00+03:00</lastmod>
+  </url>
+  <url>
     <loc>https://foodestetic.github.io/blog/articles/2019-07-15-takie-vazhnye-vitaminy-kotorye-nuzhny-osenyu.html</loc>
     <lastmod>2019-07-15T00:00:00+03:00</lastmod>
   </url>
   <url>
-    <loc>https://foodestetic.github.io/blog/articles/2019-07-14-nemnogo-o-speciyah-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.html</loc>
+    <loc>https://foodestetic.github.io/blog/articles/2019-07-14-nemnogo-o-speciyah.html</loc>
     <lastmod>2019-07-14T00:00:00+03:00</lastmod>
   </url>
   <url>
@@ -120,67 +136,47 @@
   
   <url>
     <loc>https://foodestetic.github.io/about.html</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/rss.xml</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/sitemap.xml</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/articles/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/news/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/recipes/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
-  </url>
-  <url>
-    <loc>https://foodestetic.github.io/blog/recipes/page2/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
-  </url>
-  <url>
-    <loc>https://foodestetic.github.io/blog/recipes/page3/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/restaurants/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/shop/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/page2/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
-  </url>
-  <url>
-    <loc>https://foodestetic.github.io/blog/page3/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
-  </url>
-  <url>
-    <loc>https://foodestetic.github.io/blog/page4/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
-  </url>
-  <url>
-    <loc>https://foodestetic.github.io/blog/page5/</loc>
-    <lastmod>2019-10-23T13:57:50+03:00</lastmod>
+    <lastmod>2019-10-23T16:10:54+03:00</lastmod>
   </url>
   
 </urlset>

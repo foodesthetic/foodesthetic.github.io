@@ -7,6 +7,17 @@
 		<atom:link href="https://foodestetic.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Паста с креветками и помидорами</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html"><img width="100%" src="https://foodestetic.github.io"></a>
+					Это несложное блюдо итальянской кухни. Прекрасно подойдет для романтического ужина.
+					]]></description>
+				<pubDate>Mon, 21 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html</guid>
+			</item>
+		
+			<item>
 				<title>Картошка-гармошка</title>
 				<description><![CDATA[
 					<a href="https://foodestetic.github.io/blog/recipes/2019-10-19-kartoshka-garmoshka.html"><img width="100%" src="https://foodestetic.github.io"></a>
@@ -29,7 +40,7 @@
 			</item>
 		
 			<item>
-				<title>Салат греческий</title>
+				<title>Куриные наггетсы</title>
 				<description><![CDATA[
 					<a href="https://foodestetic.github.io/blog/recipes/2019-10-15-kurinye-naggetsy.html"><img width="100%" src="https://foodestetic.github.io"></a>
 					Хрустящая золотистая корочка и нежнейшее мясо. Начинаешь кушать и не остановиться.
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 03 Oct 2019 00:00:00 +0300</pubDate>
 				<link>https://foodestetic.github.io/blog/recipes/2019-10-03-cyplenok-tabaka.html</link>
 				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-03-cyplenok-tabaka.html</guid>
-			</item>
-		
-			<item>
-				<title>Блинчики ажурные</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-10-01-blinchiki-azhurnye.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Блины с дырочками на кефире – тонкие и безумно вкусные блинчики
-					]]></description>
-				<pubDate>Tue, 01 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-10-01-blinchiki-azhurnye.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-01-blinchiki-azhurnye.html</guid>
 			</item>
 		
 	</channel>
