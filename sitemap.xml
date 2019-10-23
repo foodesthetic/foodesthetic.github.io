@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://foodestetic.github.io/blog/recipes/2019-10-19-kartoshka-garmoshka.html</loc>
+    <lastmod>2019-10-19T00:00:00+03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://foodestetic.github.io/blog/recipes/2019-10-17-pechene-s-suhofruktami-i-orehami.html</loc>
+    <lastmod>2019-10-17T00:00:00+03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://foodestetic.github.io/blog/recipes/2019-10-15-kurinye-naggetsy.html</loc>
+    <lastmod>2019-10-15T00:00:00+03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://foodestetic.github.io/blog/recipes/2019-10-13-salat-grecheskij.html</loc>
+    <lastmod>2019-10-13T00:00:00+03:00</lastmod>
+  </url>
+  <url>
     <loc>https://foodestetic.github.io/blog/recipes/2019-10-11-fruktovyj-salat-v-apelsinovyx-korzinkax.html</loc>
     <lastmod>2019-10-11T00:00:00+03:00</lastmod>
   </url>
@@ -104,63 +120,67 @@
   
   <url>
     <loc>https://foodestetic.github.io/about.html</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/rss.xml</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/sitemap.xml</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/articles/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/news/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/recipes/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/recipes/page2/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://foodestetic.github.io/blog/recipes/page3/</loc>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/restaurants/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/shop/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/page2/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/page3/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/page4/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/page5/</loc>
-    <lastmod>2019-10-22T12:03:24+03:00</lastmod>
+    <lastmod>2019-10-23T13:49:33+03:00</lastmod>
   </url>
   
 </urlset>

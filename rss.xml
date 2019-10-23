@@ -7,6 +7,50 @@
 		<atom:link href="https://foodestetic.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Картошка-гармошка</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/recipes/2019-10-19-kartoshka-garmoshka.html"><img width="100%" src="https://foodestetic.github.io"></a>
+					Это блюдо можно приготовить с грибами, колбасой, беконом, помидорами. А мы приготовим с болгарским перцем и сыром.
+					]]></description>
+				<pubDate>Sat, 19 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/recipes/2019-10-19-kartoshka-garmoshka.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-19-kartoshka-garmoshka.html</guid>
+			</item>
+		
+			<item>
+				<title>Печенье с сухофруктами и орехами</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/recipes/2019-10-17-pechene-s-suhofruktami-i-orehami.html"><img width="100%" src="https://foodestetic.github.io"></a>
+					Печенье необыкновенно вкусное и очень легко готовится. Отличный варинт для перекуса к чаю.
+					]]></description>
+				<pubDate>Thu, 17 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/recipes/2019-10-17-pechene-s-suhofruktami-i-orehami.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-17-pechene-s-suhofruktami-i-orehami.html</guid>
+			</item>
+		
+			<item>
+				<title>Салат греческий</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/recipes/2019-10-15-kurinye-naggetsy.html"><img width="100%" src="https://foodestetic.github.io"></a>
+					Хрустящая золотистая корочка и нежнейшее мясо. Начинаешь кушать и не остановиться.
+					]]></description>
+				<pubDate>Tue, 15 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/recipes/2019-10-15-kurinye-naggetsy.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-15-kurinye-naggetsy.html</guid>
+			</item>
+		
+			<item>
+				<title>Салат греческий</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/recipes/2019-10-13-salat-grecheskij.html"><img width="100%" src="https://foodestetic.github.io"></a>
+					Салат из свежих овощей, сладкого лука и ароматной феты с маслинами непременно завоюет и ваше сердце!
+					]]></description>
+				<pubDate>Sun, 13 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/recipes/2019-10-13-salat-grecheskij.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-13-salat-grecheskij.html</guid>
+			</item>
+		
+			<item>
 				<title>Фруктовый салат в апельсиновых корзинках</title>
 				<description><![CDATA[
 					<a href="https://foodestetic.github.io/blog/recipes/2019-10-11-fruktovyj-salat-v-apelsinovyx-korzinkax.html"><img width="100%" src="https://foodestetic.github.io"></a>
@@ -70,50 +114,6 @@
 				<pubDate>Tue, 01 Oct 2019 00:00:00 +0300</pubDate>
 				<link>https://foodestetic.github.io/blog/recipes/2019-10-01-blinchiki-azhurnye.html</link>
 				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-01-blinchiki-azhurnye.html</guid>
-			</item>
-		
-			<item>
-				<title>Салат из свеклы, яблок и моркови</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-09-28-salat-iz-svekly-yablok-i-morkovi.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Очень полезный и богатый витаминами салат даст заряд бодрости и энергии
-					]]></description>
-				<pubDate>Sat, 28 Sep 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-09-28-salat-iz-svekly-yablok-i-morkovi.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-09-28-salat-iz-svekly-yablok-i-morkovi.html</guid>
-			</item>
-		
-			<item>
-				<title>Запеканка из кабачков с куриным фаршем</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-09-24-zapekanka-iz-kabachkov-s-kurinym-farshem.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Нежнейшая запеканка из кабачков с добавлением куриного фарша
-					]]></description>
-				<pubDate>Tue, 24 Sep 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-09-24-zapekanka-iz-kabachkov-s-kurinym-farshem.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-09-24-zapekanka-iz-kabachkov-s-kurinym-farshem.html</guid>
-			</item>
-		
-			<item>
-				<title>Пеппероната из курицы</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-09-20-pepperonata-iz-kuricy.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Вкуснейшая итальянская пеппероната, от которой вы получите истинный экстаз
-					]]></description>
-				<pubDate>Fri, 20 Sep 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-09-20-pepperonata-iz-kuricy.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-09-20-pepperonata-iz-kuricy.html</guid>
-			</item>
-		
-			<item>
-				<title>MiraGrill: гриль-ресторан на проспекте Мира</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/restaurants/2019-08-20-miragrill-gril-restoran-na-prospekte-mira.html"><img width="100%" src="https://foodestetic.github.ioimages/restaurants/2019/2019-08-20-miragrill-gril-restoran-na-prospekte-mira/1.jpg"></a>
-					[&quot;Рядом с ВДНХ теперь можно попробовать приличные стейки, позавтракать и поучаствовать в бранче.&quot;]
-					]]></description>
-				<pubDate>Tue, 20 Aug 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/restaurants/2019-08-20-miragrill-gril-restoran-na-prospekte-mira.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/restaurants/2019-08-20-miragrill-gril-restoran-na-prospekte-mira.html</guid>
 			</item>
 		
 	</channel>
