@@ -7,6 +7,17 @@
 		<atom:link href="https://foodestetic.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Продукты против кариеса</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html"><img width="100%" src="https://foodestetic.github.ioimages/articles/2019/2019-10-24-produkty-protiv-kariesa/1.jpg"></a>
+					Ученые рассказали, какие продукты нужно употреблять чаще, чтобы предотвратить образование кариеса. Текст статьи 
+					]]></description>
+				<pubDate>Thu, 24 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html</guid>
+			</item>
+		
+			<item>
 				<title>Паста с креветками и помидорами</title>
 				<description><![CDATA[
 					<a href="https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html"><img width="100%" src="https://foodestetic.github.io"></a>
@@ -103,17 +114,6 @@
 				<pubDate>Sat, 05 Oct 2019 00:00:00 +0300</pubDate>
 				<link>https://foodestetic.github.io/blog/recipes/2019-10-05-bolgarskij-nasypnoj-pirog-s-yablokami.html</link>
 				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-05-bolgarskij-nasypnoj-pirog-s-yablokami.html</guid>
-			</item>
-		
-			<item>
-				<title>Цыпленок табака</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-10-03-cyplenok-tabaka.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Цыпленок табака – хороший вариант для тех, кто не слишком опытный кулинар.
-					]]></description>
-				<pubDate>Thu, 03 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-10-03-cyplenok-tabaka.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-03-cyplenok-tabaka.html</guid>
 			</item>
 		
 	</channel>

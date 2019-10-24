@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html</loc>
+    <lastmod>2019-10-24T00:00:00+03:00</lastmod>
+  </url>
+  <url>
     <loc>https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html</loc>
     <lastmod>2019-10-21T00:00:00+03:00</lastmod>
   </url>
@@ -64,6 +68,10 @@
   <url>
     <loc>https://foodestetic.github.io/blog/restaurants/2019-08-19-picca-22-santimetra.html</loc>
     <lastmod>2019-08-19T00:00:00+03:00</lastmod>
+  </url>
+  <url>
+    <loc>https://foodestetic.github.io/blog/articles/2019-08-05-interesnoe-i-poleznoe-o-moreproduktah.html</loc>
+    <lastmod>2019-08-05T00:00:00+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/shop/2019-07-22-book-2.html</loc>
@@ -148,47 +156,47 @@
   
   <url>
     <loc>https://foodestetic.github.io/about.html</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/rss.xml</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/sitemap.xml</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/articles/</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/news/</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/recipes/</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/restaurants/</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/shop/</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   <url>
     <loc>https://foodestetic.github.io/blog/page2/</loc>
-    <lastmod>2019-10-24T21:20:10+03:00</lastmod>
+    <lastmod>2019-10-24T22:27:55+03:00</lastmod>
   </url>
   
 </urlset>
