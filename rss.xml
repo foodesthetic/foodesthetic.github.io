@@ -7,6 +7,17 @@
 		<atom:link href="https://foodestetic.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Сервис по продаже лишней еды из ресторанов начал работать в Москве</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/news/2019-10-25-servis-po-prodazhe-lishnej-edy-iz-restoranov-nachal-rabotat-v-moskve.html"><img width="100%" src="https://foodestetic.github.ioimages/news/2019/2019-10-25-servis-po-prodazhe-lishnej-edy-iz-restoranov-nachal-rabotat-v-moskve/1.jpg"></a>
+					Петербургский сервис Eatme, через который продают лишнюю еду из ресторанов, кафе и пекарен, заработал в Москве.
+					]]></description>
+				<pubDate>Fri, 25 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/news/2019-10-25-servis-po-prodazhe-lishnej-edy-iz-restoranov-nachal-rabotat-v-moskve.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/news/2019-10-25-servis-po-prodazhe-lishnej-edy-iz-restoranov-nachal-rabotat-v-moskve.html</guid>
+			</item>
+		
+			<item>
 				<title>Продукты против кариеса</title>
 				<description><![CDATA[
 					<a href="https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html"><img width="100%" src="https://foodestetic.github.ioimages/articles/2019/2019-10-24-produkty-protiv-kariesa/1.jpg"></a>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 07 Oct 2019 00:00:00 +0300</pubDate>
 				<link>https://foodestetic.github.io/blog/recipes/2019-10-07-salat-cezar.html</link>
 				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-07-salat-cezar.html</guid>
-			</item>
-		
-			<item>
-				<title>Болгарский насыпной пирог с яблоками</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-10-05-bolgarskij-nasypnoj-pirog-s-yablokami.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Если Вы любите выпечку, но не любите возиться с тестом, тогда этот рецепт вам понравится!
-					]]></description>
-				<pubDate>Sat, 05 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-10-05-bolgarskij-nasypnoj-pirog-s-yablokami.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-05-bolgarskij-nasypnoj-pirog-s-yablokami.html</guid>
 			</item>
 		
 	</channel>
