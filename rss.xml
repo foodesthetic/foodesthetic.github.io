@@ -7,6 +7,17 @@
 		<atom:link href="https://foodestetic.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Российским специалистам удалось вырастить искусственное мясо</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/news/2019-10-29-rossijskim-specialistam-udalos-vyrastit-iskusstvennoe-myaso.html"><img width="100%" src="https://foodestetic.github.ioimages/news/2019/2019-10-29-rossijskim-specialistam-udalos-vyrastit-iskusstvennoe-myaso/1.jpg"></a>
+					Специалистам Очаковского комбината пищевых ингредиентов (ОКПИ) после двух лет экспериментов удалось создать искусственное мясо.
+					]]></description>
+				<pubDate>Tue, 29 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/news/2019-10-29-rossijskim-specialistam-udalos-vyrastit-iskusstvennoe-myaso.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/news/2019-10-29-rossijskim-specialistam-udalos-vyrastit-iskusstvennoe-myaso.html</guid>
+			</item>
+		
+			<item>
 				<title>Юный любитель веганских десертов покоряет интернет</title>
 				<description><![CDATA[
 					<a href="https://foodestetic.github.io/blog/news/2019-10-28-yunyj-lyubitel-veganskih-desertov-pokoryaet-internet.html"><img width="100%" src="https://foodestetic.github.ioimages/news/2019/2019-10-28-yunyj-lyubitel-veganskih-desertov-pokoryaet-internet/1.jpg"></a>
@@ -15,6 +26,39 @@
 				<pubDate>Mon, 28 Oct 2019 00:00:00 +0300</pubDate>
 				<link>https://foodestetic.github.io/blog/news/2019-10-28-yunyj-lyubitel-veganskih-desertov-pokoryaet-internet.html</link>
 				<guid isPermaLink="true">https://foodestetic.github.io/blog/news/2019-10-28-yunyj-lyubitel-veganskih-desertov-pokoryaet-internet.html</guid>
+			</item>
+		
+			<item>
+				<title>В Азербайджане проходит Фестиваль граната</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/news/2019-10-28-v-azerbajdzhane-prohodit-festival-granata.html"><img width="100%" src="https://foodestetic.github.ioimages/news/2019/2019-10-28-v-azerbajdzhane-prohodit-festival-granata/1.jpg"></a>
+					С 26 октября по 7 ноября в азербайджанском городе Гейчай проходит Фестиваль граната
+					]]></description>
+				<pubDate>Mon, 28 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/news/2019-10-28-v-azerbajdzhane-prohodit-festival-granata.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/news/2019-10-28-v-azerbajdzhane-prohodit-festival-granata.html</guid>
+			</item>
+		
+			<item>
+				<title>Интересные факты о пицце</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/articles/2019-10-28-interesnye-fakty-o-picce.html"><img width="100%" src="https://foodestetic.github.ioimages/articles/2019/2019-10-28-interesnye-fakty-o-picce/1.jpg"></a>
+					Пицца – известное блюдо итальянской кухни, признанное кулинарным шедевром во всем мире, история которого насчитывает множество увлекательных фактов
+					]]></description>
+				<pubDate>Mon, 28 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/articles/2019-10-28-interesnye-fakty-o-picce.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/articles/2019-10-28-interesnye-fakty-o-picce.html</guid>
+			</item>
+		
+			<item>
+				<title>Ризотто с грибами и орешками кешью</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/recipes/2019-10-28-rizotto-s-gribami-i-oreshkami-keshyu.html"><img width="100%" src="https://foodestetic.github.io"></a>
+					Те, кто впервые пробует ризотто, обязательно попадают под очарование чудесного аромата и неповторимого вкуса
+					]]></description>
+				<pubDate>Mon, 28 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/recipes/2019-10-28-rizotto-s-gribami-i-oreshkami-keshyu.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-28-rizotto-s-gribami-i-oreshkami-keshyu.html</guid>
 			</item>
 		
 			<item>
@@ -54,7 +98,7 @@
 				<title>Продукты против кариеса</title>
 				<description><![CDATA[
 					<a href="https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html"><img width="100%" src="https://foodestetic.github.ioimages/articles/2019/2019-10-24-produkty-protiv-kariesa/1.jpg"></a>
-					Ученые рассказали, какие продукты нужно употреблять чаще, чтобы предотвратить образование кариеса. Текст статьи 
+					Ученые рассказали, какие продукты нужно употреблять чаще, чтобы предотвратить образование кариеса
 					]]></description>
 				<pubDate>Thu, 24 Oct 2019 00:00:00 +0300</pubDate>
 				<link>https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html</link>
@@ -70,50 +114,6 @@
 				<pubDate>Mon, 21 Oct 2019 00:00:00 +0300</pubDate>
 				<link>https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html</link>
 				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html</guid>
-			</item>
-		
-			<item>
-				<title>Картошка-гармошка</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-10-19-kartoshka-garmoshka.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Это блюдо можно приготовить с грибами, колбасой, беконом, помидорами. А мы приготовим с болгарским перцем и сыром.
-					]]></description>
-				<pubDate>Sat, 19 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-10-19-kartoshka-garmoshka.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-19-kartoshka-garmoshka.html</guid>
-			</item>
-		
-			<item>
-				<title>Печенье с сухофруктами и орехами</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-10-17-pechene-s-suhofruktami-i-orehami.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Печенье необыкновенно вкусное и очень легко готовится. Отличный варинт для перекуса к чаю.
-					]]></description>
-				<pubDate>Thu, 17 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-10-17-pechene-s-suhofruktami-i-orehami.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-17-pechene-s-suhofruktami-i-orehami.html</guid>
-			</item>
-		
-			<item>
-				<title>Куриные наггетсы</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-10-15-kurinye-naggetsy.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Хрустящая золотистая корочка и нежнейшее мясо. Начинаешь кушать и не остановиться.
-					]]></description>
-				<pubDate>Tue, 15 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-10-15-kurinye-naggetsy.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-15-kurinye-naggetsy.html</guid>
-			</item>
-		
-			<item>
-				<title>Салат греческий</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-10-13-salat-grecheskij.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Салат из свежих овощей, сладкого лука и ароматной феты с маслинами непременно завоюет и ваше сердце!
-					]]></description>
-				<pubDate>Sun, 13 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-10-13-salat-grecheskij.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-13-salat-grecheskij.html</guid>
 			</item>
 		
 	</channel>
