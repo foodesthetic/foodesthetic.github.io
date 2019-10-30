@@ -7,6 +7,28 @@
 		<atom:link href="https://foodestetic.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>На Даниловском рынке пройдет фестиваль тыквы</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/news/2019-10-30-na-danilovskom-rynke-projdet-festival-tykvy.html"><img width="100%" src="https://foodestetic.github.ioimages/news/2019/2019-10-30-na-danilovskom-rynke-projdet-festival-tykvy/1.jpg"></a>
+					C 28 октября по 4 ноября на Даниловском рынке пройдет гастрономический фестиваль «Если любишь тыкву»
+					]]></description>
+				<pubDate>Wed, 30 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/news/2019-10-30-na-danilovskom-rynke-projdet-festival-tykvy.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/news/2019-10-30-na-danilovskom-rynke-projdet-festival-tykvy.html</guid>
+			</item>
+		
+			<item>
+				<title>Как лучше и дольше сохранить овощи</title>
+				<description><![CDATA[
+					<a href="https://foodestetic.github.io/blog/articles/2019-10-30-kak-luchshe-i-dolshe-sohranit-ovoshhi.html"><img width="100%" src="https://foodestetic.github.ioimages/articles/2019/2019-10-30-kak-luchshe-i-dolshe-sohranit-ovoshhi/1.jpg"></a>
+					Ни для кого не секрет, что создав оптимальные условия хранения различных овощей, фруктов и ягод, можно сберечь их в свежем виде достаточно продолжительное время
+					]]></description>
+				<pubDate>Wed, 30 Oct 2019 00:00:00 +0300</pubDate>
+				<link>https://foodestetic.github.io/blog/articles/2019-10-30-kak-luchshe-i-dolshe-sohranit-ovoshhi.html</link>
+				<guid isPermaLink="true">https://foodestetic.github.io/blog/articles/2019-10-30-kak-luchshe-i-dolshe-sohranit-ovoshhi.html</guid>
+			</item>
+		
+			<item>
 				<title>Российским специалистам удалось вырастить искусственное мясо</title>
 				<description><![CDATA[
 					<a href="https://foodestetic.github.io/blog/news/2019-10-29-rossijskim-specialistam-udalos-vyrastit-iskusstvennoe-myaso.html"><img width="100%" src="https://foodestetic.github.ioimages/news/2019/2019-10-29-rossijskim-specialistam-udalos-vyrastit-iskusstvennoe-myaso/1.jpg"></a>
@@ -92,28 +114,6 @@
 				<pubDate>Fri, 25 Oct 2019 00:00:00 +0300</pubDate>
 				<link>https://foodestetic.github.io/blog/news/2019-10-25-servis-po-prodazhe-lishnej-edy-iz-restoranov-nachal-rabotat-v-moskve.html</link>
 				<guid isPermaLink="true">https://foodestetic.github.io/blog/news/2019-10-25-servis-po-prodazhe-lishnej-edy-iz-restoranov-nachal-rabotat-v-moskve.html</guid>
-			</item>
-		
-			<item>
-				<title>Продукты против кариеса</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html"><img width="100%" src="https://foodestetic.github.ioimages/articles/2019/2019-10-24-produkty-protiv-kariesa/1.jpg"></a>
-					Ученые рассказали, какие продукты нужно употреблять чаще, чтобы предотвратить образование кариеса
-					]]></description>
-				<pubDate>Thu, 24 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/articles/2019-10-24-produkty-protiv-kariesa.html</guid>
-			</item>
-		
-			<item>
-				<title>Паста с креветками и помидорами</title>
-				<description><![CDATA[
-					<a href="https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html"><img width="100%" src="https://foodestetic.github.io"></a>
-					Это несложное блюдо итальянской кухни. Прекрасно подойдет для романтического ужина.
-					]]></description>
-				<pubDate>Mon, 21 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html</link>
-				<guid isPermaLink="true">https://foodestetic.github.io/blog/recipes/2019-10-21-pasta-s-krevetkami-i-pomidorami.html</guid>
 			</item>
 		
 	</channel>
