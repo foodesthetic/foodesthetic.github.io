@@ -4,12 +4,12 @@ Options -Indexes
 RewriteEngine On
 
 RewriteCond %{HTTP:HTTPS} !=on [NC]
-RewriteRule ^(.*)$ https://foodestetic.github.io/$1 [R=301,L]
+RewriteRule ^(.*)$ https://foodesthetic.github.io/$1 [R=301,L]
 SetEnvIf X-Forwarded-Proto https HTTPS=on
 
 # RewriteCond %{HTTP_HOST} .
-# RewriteCond %{HTTP_HOST} www.foodestetic.github.io [NC]
-# RewriteRule (.*) http://foodestetic.github.io/$1 [R=301,L]
+# RewriteCond %{HTTP_HOST} www.foodesthetic.github.io [NC]
+# RewriteRule (.*) http://foodesthetic.github.io/$1 [R=301,L]
 
 RewriteCond %{HTTP_USER_AGENT} wget [NC]
 RewriteRule .* - [F]

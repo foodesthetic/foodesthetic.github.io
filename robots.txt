@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /index.html
-Host: sitename.ru
-Sitemap: http://sitename.ru/sitemap.xml
+Host: foodesthetic.github.io
+Sitemap: http://foodesthetic.github.io/sitemap.xml
