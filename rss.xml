@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Food Esthetic</title>
+		<title>&amp;#198;stheticFood</title>
 		<description>Красивая и здоровая пища - красивые и здоровые тело и дух</description>
 		<link>https://foodesthetic.github.io</link>
 		<atom:link href="https://foodesthetic.github.io/feed.xml" rel="self" type="application/rss+xml" />
