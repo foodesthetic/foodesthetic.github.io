@@ -7,6 +7,17 @@
 		<atom:link href="https://foodesthetic.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Молоко: пить или не пить?</title>
+				<description><![CDATA[
+					<a href="https://foodesthetic.github.io/blog/articles/2019-11-07-moloko-pit-ili-ne-pit.html"><img width="100%" src="https://foodesthetic.github.ioimages/articles/2019/2019-11-07-moloko-pit-ili-ne-pit/01.jpg"></a>
+					В древних писаниях говорится о том, что мудрецы питались только молоком. Сегодня ученые и диетологи всего мира неустанно спорят, что же приносит молоко человеческому организму - пользу или вред.
+					]]></description>
+				<pubDate>Thu, 07 Nov 2019 00:00:00 +0300</pubDate>
+				<link>https://foodesthetic.github.io/blog/articles/2019-11-07-moloko-pit-ili-ne-pit.html</link>
+				<guid isPermaLink="true">https://foodesthetic.github.io/blog/articles/2019-11-07-moloko-pit-ili-ne-pit.html</guid>
+			</item>
+		
+			<item>
 				<title>В Нью-Йорке запретят фуа-гра</title>
 				<description><![CDATA[
 					<a href="https://foodesthetic.github.io/blog/news/2019-11-02-v-nyu-jorke-zapretyat-fua-gra.html"><img width="100%" src="https://foodesthetic.github.ioimages/news/2019/2019-11-02-v-nyu-jorke-zapretyat-fua-gra/01.jpg"></a>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 28 Oct 2019 00:00:00 +0300</pubDate>
 				<link>https://foodesthetic.github.io/blog/news/2019-10-28-v-azerbajdzhane-prohodit-festival-granata.html</link>
 				<guid isPermaLink="true">https://foodesthetic.github.io/blog/news/2019-10-28-v-azerbajdzhane-prohodit-festival-granata.html</guid>
-			</item>
-		
-			<item>
-				<title>Интересные факты о пицце</title>
-				<description><![CDATA[
-					<a href="https://foodesthetic.github.io/blog/articles/2019-10-28-interesnye-fakty-o-picce.html"><img width="100%" src="https://foodesthetic.github.ioimages/articles/2019/2019-10-28-interesnye-fakty-o-picce/01.jpg"></a>
-					Пицца – известное блюдо итальянской кухни, признанное кулинарным шедевром во всем мире, история которого насчитывает множество увлекательных фактов
-					]]></description>
-				<pubDate>Mon, 28 Oct 2019 00:00:00 +0300</pubDate>
-				<link>https://foodesthetic.github.io/blog/articles/2019-10-28-interesnye-fakty-o-picce.html</link>
-				<guid isPermaLink="true">https://foodesthetic.github.io/blog/articles/2019-10-28-interesnye-fakty-o-picce.html</guid>
 			</item>
 		
 	</channel>
