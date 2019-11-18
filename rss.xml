@@ -7,6 +7,17 @@
 		<atom:link href="https://foodesthetic.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Перец фаршированный творогом и овощами</title>
+				<description><![CDATA[
+					<a href="https://foodesthetic.github.io/blog/recipes/2019-11-18-perec-farshirovannyj-tvorogom-i-ovoshhami.html"><img width="100%" src="https://foodesthetic.github.io"></a>
+					Этот рецепт необычный... на вкус фаршированный перчик выходит как-будто с мясом, но мяса в нем нет.
+					]]></description>
+				<pubDate>Mon, 18 Nov 2019 00:00:00 +0300</pubDate>
+				<link>https://foodesthetic.github.io/blog/recipes/2019-11-18-perec-farshirovannyj-tvorogom-i-ovoshhami.html</link>
+				<guid isPermaLink="true">https://foodesthetic.github.io/blog/recipes/2019-11-18-perec-farshirovannyj-tvorogom-i-ovoshhami.html</guid>
+			</item>
+		
+			<item>
 				<title>В Париже построят крупнейшую в мире городскую ферму</title>
 				<description><![CDATA[
 					<a href="https://foodesthetic.github.io/blog/news/2019-11-14-v-parizhe-postroyat-krupnejshuyu-v-mire-gorodskuyu-fermu.html"><img width="100%" src="https://foodesthetic.github.ioimages/news/2019/2019-11-14-v-parizhe-postroyat-krupnejshuyu-v-mire-gorodskuyu-fermu/01.jpg"></a>
@@ -103,17 +114,6 @@
 				<pubDate>Sat, 02 Nov 2019 00:00:00 +0300</pubDate>
 				<link>https://foodesthetic.github.io/blog/news/2019-11-02-v-nyu-jorke-zapretyat-fua-gra.html</link>
 				<guid isPermaLink="true">https://foodesthetic.github.io/blog/news/2019-11-02-v-nyu-jorke-zapretyat-fua-gra.html</guid>
-			</item>
-		
-			<item>
-				<title>Для жителей Арктики разработают специальный хлеб</title>
-				<description><![CDATA[
-					<a href="https://foodesthetic.github.io/blog/news/2019-11-01-dlya-zhitelej-arktiki-razrabotayut-specialnyj-hleb.html"><img width="100%" src="https://foodesthetic.github.ioimages/news/2019/2019-11-01-dlya-zhitelej-arktiki-razrabotayut-specialnyj-hleb/01.jpg"></a>
-					Для Арктической зоны России будет разработан рецепт хлеба повышенной пищевой ценности с добавлением пророщенных зерен пшеницы
-					]]></description>
-				<pubDate>Fri, 01 Nov 2019 00:00:00 +0300</pubDate>
-				<link>https://foodesthetic.github.io/blog/news/2019-11-01-dlya-zhitelej-arktiki-razrabotayut-specialnyj-hleb.html</link>
-				<guid isPermaLink="true">https://foodesthetic.github.io/blog/news/2019-11-01-dlya-zhitelej-arktiki-razrabotayut-specialnyj-hleb.html</guid>
 			</item>
 		
 	</channel>
